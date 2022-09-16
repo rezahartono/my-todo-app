@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/date_symbol_data_local.dart';
-import 'package:my_todo/configs/constants/string_constant.dart';
+import 'package:my_todo/utils/constants/string_constant.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

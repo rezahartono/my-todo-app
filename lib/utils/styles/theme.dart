@@ -2,7 +2,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:my_todo/configs/styles/layout_config.dart';
+import 'package:my_todo/utils/styles/layout_config.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 part 'color.dart';

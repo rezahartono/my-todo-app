@@ -4,7 +4,7 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
-import 'package:my_todo/configs/styles/layout_config.dart';
+import 'package:my_todo/utils/styles/layout_config.dart';
 
 class AppCommon {
   String randomString(int length) {

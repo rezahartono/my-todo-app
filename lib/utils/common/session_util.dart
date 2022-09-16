@@ -3,8 +3,8 @@
 import 'dart:convert';
 
 import 'package:get_storage/get_storage.dart';
-import 'package:my_todo/configs/common/app_logger.dart';
-import 'package:my_todo/configs/constants/string_constant.dart';
+import 'package:my_todo/utils/common/app_logger.dart';
+import 'package:my_todo/utils/constants/string_constant.dart';
 import 'package:my_todo/data/models/authentication_model.dart';
 
 class SessionUtil {
